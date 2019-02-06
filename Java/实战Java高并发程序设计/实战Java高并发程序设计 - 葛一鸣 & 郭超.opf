@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6c9c7dbd-87e9-4db2-8fcd-91bb6da12722</dc:identifier>
+        <dc:title>实战Java高并发程序设计</dc:title>
+        <dc:creator opf:file-as="葛一鸣 &amp; 郭超" opf:role="aut">葛一鸣</dc:creator>
+        <dc:creator opf:file-as="葛一鸣 &amp; 郭超" opf:role="aut">郭超</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-30T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;在过去单核CPU时代，单任务在一个时间点只能执行单一程序，随着多核CPU的发展，并行程序开发就显得尤为重要。&lt;br&gt;《实战Java高并发程序设计》主要介绍基于Java的并行程序设计基础、思路、方法和实战。第一，立足于并发程序基础，详细介绍Java中进行并行程序设计的基本方法。第二，进一步详细介绍JDK中对并行程序的强大支持，帮助读者快速、稳健地进行并行程序开发。第三，详细讨论有关“锁”的优化和提高并行程序性能级别的方法和思路。第四，介绍并行的基本设计模式及Java 8对并行程序的支持和改进。第五，介绍高并发框架Akka的使用方法。最后，详细介绍并行程序的调试方法。&lt;br&gt;《实战Java高并发程序设计》内容丰富，实例典型，实用性强，适合有一定Java基础的技术开发人员阅读。&lt;/p&gt;</dc:description>
+        <dc:publisher>电子工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="DOUBAN">26663605</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787121273049</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>Java</dc:subject>
+        <dc:subject>并发编程</dc:subject>
+        <dc:subject>并发</dc:subject>
+        <dc:subject>编程</dc:subject>
+        <dc:subject>计算机</dc:subject>
+        <dc:subject>软件开发</dc:subject>
+        <dc:subject>Jvm</dc:subject>
+        <meta content="{&quot;郭超&quot;: &quot;&quot;, &quot;葛一鸣&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2018-11-17T05:14:18.397218+00:00" name="calibre:timestamp"/>
+        <meta content="实战Java高并发程序设计" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="实战Java高并发程序设计 - 葛一鸣 &amp; 郭超.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
